@@ -1,0 +1,13 @@
+#kvadrat{
+    width: 100px;
+    height: 100px;
+    background: white;
+    position: relative;
+    float: left;
+
+}
+
+.main1{
+    position: relative;
+    float: right;
+}
